@@ -16,3 +16,10 @@
 в строке 26 нужно заменить 'https://your-domain.bitrix24.ru/rest/crm.company.list.json' на адрес bitrix,
 
 в строке 28 нужно заменить 'your-auth-token-here' на bitrix - токен.
+
+Запуск приложения: 
+
+```
+npm install
+npm run dev
+```
